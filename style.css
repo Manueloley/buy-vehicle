@@ -1,0 +1,24 @@
+h1{
+    color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    color: goldenrod;
+}
+button1{
+   color: limegreen; 
+}
+.container {
+
+}
+.card {
+
+}
+button2{
+    color: blueviolet;
+}
+button3{
+    color: burlywood;
+}
